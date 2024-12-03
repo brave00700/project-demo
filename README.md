@@ -1,4 +1,4 @@
 # project-demo
-author-suhas
+author-suhas (sju college)
 <br>
 first repository
